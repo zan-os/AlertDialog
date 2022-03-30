@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="custom_layout_dialog">Custom Layout Dialog</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="show_alert_dialog">show alert dialog</string>
+    <string name="show_alert_with_button">show alert with button</string>
+</resources>
